@@ -5,7 +5,6 @@ namespace Dannerz\ApiTest;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
-use Sota\ApiTest\Tests\ActionTest;
 
 abstract class DeleteModelActionTest extends ActionTest
 {

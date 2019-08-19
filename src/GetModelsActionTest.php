@@ -4,7 +4,6 @@ namespace Dannerz\ApiTest;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Support\Facades\DB;
-use Sota\ApiTest\Tests\ActionTest;
 
 abstract class GetModelsActionTest extends ActionTest
 {

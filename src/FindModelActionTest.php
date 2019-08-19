@@ -2,8 +2,6 @@
 
 namespace Dannerz\ApiTest;
 
-use Sota\ApiTest\Tests\ActionTest;
-
 abstract class FindModelActionTest extends ActionTest
 {
     /*

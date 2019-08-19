@@ -3,7 +3,6 @@
 namespace Dannerz\ApiTest;
 
 use Illuminate\Database\Eloquent\Model;
-use Sota\ApiTest\Tests\ActionTest;
 
 abstract class CreateModelActionTest extends ActionTest
 {
